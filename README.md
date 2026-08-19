@@ -16,6 +16,10 @@ python signaldesk_brief.py sample-data/product_usage_events.csv
 **Q1: Lead summary** — "useful" has four honest definitions; it leads three.
 **Q2: `median_confidence`** — not because it is noisy, because it isn't.
 
+![Q1](figures/q1_usefulness.png)
+
+![Q2](figures/q2_confidence.png)
+
 ## Who It Is For
 
 The teammate deciding whether to roll these workflows out: one workflow to back,
