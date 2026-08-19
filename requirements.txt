@@ -1,0 +1,4 @@
+# include_groups= in groupby.apply requires pandas >= 2.2
+pandas>=2.2
+scipy>=1.11
+matplotlib>=3.7
